@@ -347,7 +347,7 @@ header #logo a img {
 	}
 header #logo {
 	float:left;
-	margin:0px 0px 56px 0px;
+	margin:0px 0px 16px 0px;
 	}
 #language {
 	color: #999;
@@ -865,7 +865,7 @@ header .toprow {
 	background-color:#eeeeee;
 	width:100%;
 	padding:17px 0;
-	margin-bottom:53px;
+	margin-bottom:13px;
 	}
 header .toprow-1 {
 	z-index:100;
