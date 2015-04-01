@@ -25,6 +25,7 @@
 	max-width: 100%;
 	display: block;
 	background-color:#F4F4F4;
+	
 }
 
 /** THEME
@@ -117,7 +118,7 @@
 }
 
 .bx-wrapper .bx-controls-direction a:hover {
-	color:#efc94c
+	color:#f79748
 	}
 .bx-wrapper .bx-controls-direction a {
 	position: absolute;

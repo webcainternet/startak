@@ -281,7 +281,7 @@ header #logo {margin:78px 0 29px 10px}
 	top:3px;
 	right:10px;
 	background:none;
-	border-color:#efc94c;
+	border-color:#f79748;
 	}
 /******************* Cart *******************************/
 .cart-position #cart .heading span.link_a b, .cart-position #cart .heading span.link_a #cart-total, .cart-position #cart .heading span.link_a i.fa.fa-caret-down {display:none;}
