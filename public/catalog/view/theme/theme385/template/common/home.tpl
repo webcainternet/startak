@@ -1,3 +1,8 @@
+<style type="text/css">
+	.cart-button {
+		display: none;
+	}
+</style>
 <?php echo $header; ?>
 <?php echo $column_left; ?>
 		<div class="<?php if ($column_left or $column_right) { ?>col-sm-9<?php } ?> <?php if (!$column_left & !$column_left) { ?>col-sm-12  <?php } ?> <?php if ($column_left & $column_right) { ?>col-sm-6<?php } ?>" id="content"><?php echo $content_top; ?>

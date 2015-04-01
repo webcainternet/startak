@@ -1321,6 +1321,7 @@ a.button span {
 	font-weight:400;
 	line-height:19px;
 	text-transform:uppercase;
+	font-weight: bold;
 	}
 a.button:hover {
 	color:#f79748
@@ -1504,10 +1505,10 @@ a.button-i i:hover {
 	font-size:20px;
 	line-height:33px;
 	color:#31353d;
-	margin-bottom:34px;
 	padding:15px 30px;
 	background-color:#fff;
 	text-transform:uppercase;
+	font-weight: bold;
 	}
 #content .box.featured {
 	
