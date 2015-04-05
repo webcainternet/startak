@@ -339,14 +339,15 @@ header {
 	position: relative;
 	color:#9d9d9d;
 	margin-bottom:30px;
-	background: rgba(53,72,155,1);
+	/* background: rgba(53,72,155,1);
 	background: -moz-radial-gradient(center, ellipse cover, rgba(53,72,155,1) 0%, rgba(23,19,75,1) 100%);
 	background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(53,72,155,1)), color-stop(100%, rgba(23,19,75,1)));
 	background: -webkit-radial-gradient(center, ellipse cover, rgba(53,72,155,1) 0%, rgba(23,19,75,1) 100%);
 	background: -o-radial-gradient(center, ellipse cover, rgba(53,72,155,1) 0%, rgba(23,19,75,1) 100%);
 	background: -ms-radial-gradient(center, ellipse cover, rgba(53,72,155,1) 0%, rgba(23,19,75,1) 100%);
 	background: radial-gradient(ellipse at center, rgba(53,72,155,1) 0%, rgba(23,19,75,1) 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#35489b', endColorstr='#17134b', GradientType=1 );
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#35489b', endColorstr='#17134b', GradientType=1 ); */
+	background-color: #1c1d5c;
 	}
 header #logo a img {
 	vertical-align:top;

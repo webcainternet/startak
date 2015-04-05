@@ -4,4 +4,6 @@ $_['heading_title'] = 'Novidades';
 
 // Text
 $_['text_reviews']  = 'Baseado em %s avaliações.'; 
+
+
 ?>
