@@ -220,7 +220,9 @@ $('body').prepend('<iframe src="<?php echo $store; ?>" style="display: none;"></
 						<div id="logo"><a href="<?php echo $home; ?>"><img src="<?php echo $logo; ?>" title="<?php echo $name; ?>" alt="<?php echo $name; ?>" /></a></div>
 					<?php } ?>
 					<div class="cart-position">
-						<div class="cart-inner"><?php echo $cart; ?></div>
+						<div class="cart-inner" style="width: 240px;">
+							<img src="/image/data/icon-cart.png" style="float: left; margin: 10px;">
+							<?php echo $cart; ?></div>
 					</div>
 
 					<div class="search-position">

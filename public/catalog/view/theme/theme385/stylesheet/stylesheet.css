@@ -618,6 +618,7 @@ body div.shadow{display:none;}
 	clear:right;
 	float:right;
 	position:relative;
+	margin-top: 31px;
 	}
 #cart .heading span.link_a i.fa-shopping-cart {
 	margin-right:15px;
@@ -639,7 +640,7 @@ body div.shadow{display:none;}
 	}
 #cart .heading span.link_a {
 	display:block;
-	background-color:#f79748;
+	/* background-color:#f79748; */
 	color:#ffffff;
 	text-decoration:none;
 	font-size:12px;
@@ -872,7 +873,7 @@ header #cart .empty {
 header .toprow {
 	background-color:#eeeeee;
 	width:100%;
-	padding:17px 0;
+	padding:7px 0;
 	margin-bottom:13px;
 	}
 header .toprow-1 {
@@ -968,7 +969,7 @@ header .links a {
 	border-radius:0;
 	line-height:20px;
 	height:46px;
-	width:251px;
+	width: 570px;
 	max-width:none;
 	margin:0;
 	padding:13px;
