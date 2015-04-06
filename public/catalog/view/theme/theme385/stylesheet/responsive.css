@@ -21,12 +21,14 @@
 #menu {padding-right:340px;}
 #search {
 	position:absolute;
-	bottom:-62px;
-	right:16px;
+	/* bottom:-62px;
+	right:16px; */
 	margin:0;
 	padding:0px;
 	z-index:11;
-	border:0
+	border:0;
+	bottom: 17px;
+  	right: 0px;
 	}
 }
 @media (min-width: 768px) {

@@ -618,7 +618,6 @@ body div.shadow{display:none;}
 	clear:right;
 	float:right;
 	position:relative;
-	margin:6px 0 20px 30px;
 	}
 #cart .heading span.link_a i.fa-shopping-cart {
 	margin-right:15px;
@@ -958,7 +957,7 @@ header .links a {
 	line-height:46px;
 	vertical-align:top;
 	text-align:center;
-	background-color:#f4f4f4;
+	background-color:#f79748;
 	}
 #search .button-search:hover {
 	color:#f79748;

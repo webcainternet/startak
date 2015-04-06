@@ -222,12 +222,17 @@ $('body').prepend('<iframe src="<?php echo $store; ?>" style="display: none;"></
 					<div class="cart-position">
 						<div class="cart-inner"><?php echo $cart; ?></div>
 					</div>
-					<div id="search">
-						<div class="inner">
-							<div class="button-search"><i class="fa fa-search"></i></div>
-							<input type="search" name="search" placeholder="<?php echo $text_search; ?>" value="" />
+
+					<div class="search-position">
+						<div id="search">
+							<div class="inner">
+								<div class="button-search"><img src="/image/data/search-icon-hi.png" style="margin-top: 10px;"></div>
+								<input type="search" name="search" placeholder="<?php echo $text_search; ?>" value="" />
+							</div>
 						</div>
+
 					</div>
+					
 					<div class="clear"></div>
 				</div>
 			</div>
