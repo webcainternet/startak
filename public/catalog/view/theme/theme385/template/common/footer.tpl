@@ -5,7 +5,15 @@
 <div class="clear"></div>
 </section>
 <footer>
-	<div class="container">
+	<div class="container" style="padding: 0px;">
+		<div style="float: left; width: 25%; font-size: 22px; color: #FFFFFF;">Televendas: <span style="font-weight: bold;">0800 1001234</span></div>
+		<div style="float: left; width: 61%; background-color: #f79748; ">Cadastre-se</div>
+		<div style="float: left; width: 160px; text-align: center;">
+			<img src="/image/data/logo_startak_252x108.png" width="140" style="width: 140px; margin-top: -20px; margin-bottom: 20px;">
+		</div>
+	</div>
+
+	<div class="container" style="background-color: #FFFFFF; padding: 40px;">
 		<div class="row">
 			<?php if ($informations) { ?>
 			<div class="col-sm-2">
@@ -44,37 +52,29 @@
 				</ul>
 			</div>
 			<div class="col-sm-2">
-				<h3><?php echo $text_follow; ?></h3>
+				<h3>Siga-nos no Facebook</h3>
 				<ul>
-					<li><a href="http://facebook.com"><?php echo $text_fb; ?></a></li>
-					<li><a href="http://twitter.com"><?php echo $text_twi; ?></a></li>
-					<li><a href="#"><?php echo $text_rss; ?></a></li>
-					<li><a href="http://youtube.com"><?php echo $text_yt; ?></a></li>
+					<li><div class="ft-facebook">
+                        <iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fsubmarino&amp;width&amp;height=62&amp;colorscheme=light&amp;show_faces=false&amp;header=true&amp;stream=false&amp;show_border=true&amp;appId=319421398152485" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:62px;" allowtransparency="true"></iframe>                                
+                    </div></li>
 				</ul>
 			</div>
-			<div class="col-sm-2">
-				<h3><?php echo $text_support; ?></h3>
-				<div class="foot-phone">
-					<div class="fleft">
-						<i class="fa fa-phone"></i>
-					</div>
-					<div class="extra-wrap">
-						<div><?php echo $telephone; ?></div>
-						<div><?php echo $fax; ?></div>
-					</div>
-				</div>
-				<ul>
-					
-				</ul>
-			</div>
+			
 		</div>
 		
 	</div>
 	<div id="powered">
 		<div class="container">
 			<div class="row">
-				<div class="col-sm-12">
+				<div class="col-sm-12" style="text-align: center;">
+				<div>Todas as regras e promoções são válidas apenas para produtos vendidos e entregues pelo Submarino.
+O valor de oferta do produto será garantido após a finalização da compra. Havendo divergência, prevalecerá o menor preço ofertado.</div>
+
+				<div>B2W - Companhia Digital / CNPJ: 00.776.574/0006-60 / Inscrição Estadual: 492.513.778.117 / Endereço: Rua Sacadura Cabral, 102 - Rio de Janeiro, RJ - 20081-902 Atendimento ao cliente: atendimento.sub@submarino.com.br</div>
+
+				<div style="margin-top: 20px;">
 					<?php echo $powered; ?><!-- [[%FOOTER_LINK]] -->
+				</div>
 				</div>
 			</div>
 		</div>
