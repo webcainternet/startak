@@ -67,10 +67,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-12" style="text-align: center;">
-				<div>Todas as regras e promoções são válidas apenas para produtos vendidos e entregues pelo Submarino.
-O valor de oferta do produto será garantido após a finalização da compra. Havendo divergência, prevalecerá o menor preço ofertado.</div>
-
-				<div>B2W - Companhia Digital / CNPJ: 00.776.574/0006-60 / Inscrição Estadual: 492.513.778.117 / Endereço: Rua Sacadura Cabral, 102 - Rio de Janeiro, RJ - 20081-902 Atendimento ao cliente: atendimento.sub@submarino.com.br</div>
+				<div style="width: 70%; font-size: 8px; margin: auto; margin-top: 0px;">STARTAK.COM.BR É UMA EMPRESA QUE PERTENCE AO GRUPO DG5 DIGITAL COMÉRCIO ELETRÔNICO LTDA| CNPJ: 20.412.983/0001-80| TODOS OS DIREITOS RESERVADOS. OS PREÇOS ANUNCIADOS NESTE SITE OU VIA E-MAIL PROMOCIONAL PODEM SER ALTERADOS SEM PRÉVIO AVISO. O STARTAK.COM.BR NÃO É RESPONSÁVEL POR ERROS DESCRITIVOS. AS FOTOS CONTIDAS NESTA PÁGINA SÃO MERAMENTE ILUSTRATIVAS DO PRODUTO E PODEM VARIAR DE ACORDO COM O FORNECEDOR/LOTE DO FABRICANTE. ESTE SITE TRABALHA 100% EM CRIPTOGRAFIA SSL.</div>
 
 				<div style="margin-top: 20px;">
 					<?php echo $powered; ?><!-- [[%FOOTER_LINK]] -->
