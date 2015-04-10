@@ -7,7 +7,16 @@
 <footer>
 	<div class="container" style="padding: 0px;">
 		<div style="float: left; width: 25%; font-size: 22px; color: #FFFFFF;">Televendas: <span style="font-weight: bold;">0800 1001234</span></div>
-		<div style="float: left; width: 61%; background-color: #f79748; ">Cadastre-se</div>
+		<div style="float: left; width: 61%;">
+			<div style="margin-top: -15px;">
+					
+					<input type="search" name="search" placeholder="Receba nossas novidades..." value=""  style="float: left; padding: 10px; height: 45px; width: 600px; margin-left: 40px;">
+
+					<div class="button-search" style="float: left; background-color: #f79748; padding: 10px; padding-top: 0px;">
+						<img src="/image/data/search-icon-hi.png" style="margin-top: 10px;">
+					</div>
+			</div>
+		</div>
 		<div style="float: left; width: 160px; text-align: center;">
 			<img src="/image/data/logo_startak_252x108.png" width="140" style="width: 140px; margin-top: -20px; margin-bottom: 20px;">
 		</div>
