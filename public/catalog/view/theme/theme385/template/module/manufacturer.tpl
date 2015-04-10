@@ -1,5 +1,5 @@
 <div class="clear"></div>
-<div class="box man" style="background-color: #FFFFFF;">
+<div class="box man" style="background-color: #FFFFFF; border-top: dotted 1px #DDDDDD;border-bottom: dotted 1px #DDDDDD;">
    <div class="box-heading">marcas</div>
    <div class="box-man">
     <?php if ($manufacturers) { ?>
