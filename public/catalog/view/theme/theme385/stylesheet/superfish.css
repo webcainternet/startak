@@ -18,7 +18,7 @@ ul.sf-menu > li {
 	padding:9px 20px;
 	max-width:162px;
 	width:100%;
-	border-right:1px solid #ededed;
+	border-left:1px solid #ededed;
 	text-align:center;
 	
 	display:block;

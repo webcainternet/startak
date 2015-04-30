@@ -9,4 +9,8 @@ $_['text_welcome']        = '<a href="%s">entrar</a> ou <a href="%s">criar uma c
 $_['text_logged']         = '<a href="%s">%s</a> <b>(</b> <a href="%s">Sair</a> <b>)</b>';
 $_['text_account']        = 'Minha conta';
 $_['text_checkout']       = 'Finalizar pedido';
+
+$_['text_category']      = 'Categorias';
+$_['text_latest_added']   = 'Últimos adicionado(s):';
+$_['text_items2']   = '%s';
 ?>

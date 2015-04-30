@@ -354,8 +354,8 @@ $('body').prepend('<iframe src="<?php echo $store; ?>" style="display: none;"></
 						<?php } ?>
 						</li>
 						<?php } ?>
-						<li class="cat_6" style="border: 0px;">
-									<a href="/oferta-do-dia" style="font-size: 14px; color: #f79748;">Oferta do dia!</a>
+						<li class="cat_6" style="border: 0px;background-color: #f79748; height: 48px; float: right; color: #FFFFFF;">
+									<a href="/oferta-do-dia" style="font-size: 14px; color: #FFFFFF;">Oferta do dia</a>
 								</li>
 					</ul>
 					
