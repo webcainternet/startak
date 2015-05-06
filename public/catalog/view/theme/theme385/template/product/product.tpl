@@ -434,7 +434,7 @@
 				<?php } ?>
 				</div>
 				<?php } ?>
-			<div class="cart-button">
+			<div class="cart-button" style="display: none;">
 				<div class="cart">
 					<a title="<?php echo $button_cart; ?>" onclick="addToCart('<?php echo $product['product_id']; ?>');" class="button ">
 						<!--<i class="fa fa-shopping-cart"></i>-->
