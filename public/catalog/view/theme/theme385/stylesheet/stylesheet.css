@@ -1512,6 +1512,7 @@ a.button-i i:hover {
 	text-transform:uppercase;
 	font-weight: bold;
 	border-bottom: solid 5px #1c1d5c;
+	margin-bottom: 10px;
 	}
 #content .box.featured {
 	
