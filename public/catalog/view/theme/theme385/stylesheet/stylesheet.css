@@ -619,7 +619,7 @@ body div.shadow{display:none;}
 	clear:right;
 	float:right;
 	position:relative;
-	margin-top: 31px;
+	margin-top: 11px;
 	}
 #cart .heading span.link_a i.fa-shopping-cart {
 	margin-right:15px;
@@ -2332,8 +2332,9 @@ a.button-prod:hover {
 	}
 a.button-prod {
 	display:inline-block;
-	background-color:#f79748;
-	
+	  background-color: #64CD2A;
+	  min-width: 150px;
+	  text-align: center;	
 	font-size:15px;
 	color:#ffffff;
 	padding:9px 19px 10px 11px;
@@ -2863,16 +2864,16 @@ input#sub_category {
 	z-index:5
 	}
 a.button-return-left:hover, a.button-return-right:hover, a.button-order-right:hover, a.button-cont-right:hover, a.button-back-left:hover, a.button-inf-left:hover {
-	color:#f79748
+	/*color:#f79748*/
 	}
 a.button-return-left, a.button-return-right, a.button-order-right, a.button-cont-right, a.button-back-left, a.button-inf-left {
 	display: inline-block;
 	text-decoration: none;
 	cursor: pointer;
-	
-	padding-right:0px;
-	color:#7e7e7e;
 	vertical-align:top;
+	background-color: #f79748;
+	  color: #ffffff;
+	  padding: 10px;
 	}
 a.button-back-left i,.button-back-left i, .button-return-right-i i, a.button-return-left i, a.button-cont-right i {
 	font-size:26px;
