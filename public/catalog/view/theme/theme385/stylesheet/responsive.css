@@ -57,8 +57,8 @@
 	}
 .box .box-content .box-product ul li {
 	margin-bottom:62px;
-	padding-bottom:62px;
-	border-bottom:1px solid #f4f5f5;
+	/* padding-bottom:62px;
+	border-bottom:1px solid #f4f5f5; */
 	}
 }
 @media (min-width: 768px) and (max-width: 1199px) {
