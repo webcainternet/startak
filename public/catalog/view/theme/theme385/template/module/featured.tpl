@@ -147,7 +147,7 @@
 						<?php } ?>
 						<div class="name maxheight-feat"><a href="<?php echo $product['href']; ?>"><?php echo $product['name']; ?></a></div>
 						<?php if ($product['description']) {?>
-						<div class="description"><?php echo mb_substr($product['description1'],0,60,'UTF-8').'...';?></div>
+						<div class="description" style="display: none;"><?php echo mb_substr($product['description1'],0,60,'UTF-8').'...';?></div>
 						<?php } ?>
 						
 					</div>
