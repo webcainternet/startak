@@ -69,7 +69,7 @@
 				</ul>
 			</div>
 
-			<div style="width: 100%; float: left; text-align: right; vertical-align: bottom;">
+			<div style="width: 100%; float: left; text-align: right; vertical-align: bottom; margin-top: -50px;">
 				<div style="float: right;">
 					<a href="#" onclick="window.open('https://www.sitelock.com/verify.php?site=www.startak.com.br','SiteLock','width=600,height=600,left=160,top=170');" ><img alt="website security" title="SiteLock" src="//shield.sitelock.com/shield/www.startak.com.br"/></a>
 				</div>
