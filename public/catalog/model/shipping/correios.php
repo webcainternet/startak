@@ -366,8 +366,10 @@ class ModelShippingCorreios extends Model {
 		// troca o separador decimal de ponto para vírgula nos dados a serem enviados para os Correios
 		$peso 		= str_replace('.', ',', $peso);
 		
-		$valor 		= str_replace('.', ',', $valor);
-		$valor 		= number_format((float)$valor, 2, ',' , '.');
+		// Correios parou de aceitar valores com centavos. Que emprasa mais amadora...
+		//$valor 		= str_replace('.', ',', $valor);
+		//$valor 		= number_format((float)$valor, 2, ',' , '.');
+		$valor 		= round($valor);
 		
 		$comp 		= str_replace('.', ',', $comp);
 		$larg 		= str_replace('.', ',', $larg);
