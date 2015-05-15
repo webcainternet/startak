@@ -68,6 +68,23 @@
                     </div></li>
 				</ul>
 			</div>
+
+			<div style="width: 100%; float: left; text-align: right; vertical-align: bottom;">
+				<div style="float: right;">
+					<a href="#" onclick="window.open('https://www.sitelock.com/verify.php?site=www.startak.com.br','SiteLock','width=600,height=600,left=160,top=170');" ><img alt="website security" title="SiteLock" src="//shield.sitelock.com/shield/www.startak.com.br"/></a>
+				</div>
+
+				<div style="float: right; margin-top: 35px;">
+					<!-- PayPal Logo --> 
+					<img src="https://www.paypalobjects.com/webstatic/mktg/br/botao-checkout_horizontal_ap.png" border="0" /> <!-- PayPal Logo -->
+				</div>
+
+				<div style="float: right; margin-top: 35px;">
+					<span id="siteseal"><script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=hMxFQ5TeLwZrgRd8o8MrNU6L6JSxmVeQ5za0cQC0l3BXcjwh8DCZLrvuPdmb"></script></span>
+				</div>
+
+				
+			</div>
 			
 		</div>
 		
